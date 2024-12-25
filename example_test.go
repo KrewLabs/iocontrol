@@ -10,7 +10,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/aybabtme/iocontrol"
+	"github.com/KrewLabs/iocontrol"
 	"github.com/dustin/go-humanize"
 )
 

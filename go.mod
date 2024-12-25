@@ -1,4 +1,4 @@
-module github.com/aybabtme/iocontrol
+module github.com/KrewLabs/iocontrol
 
 go 1.12.0
 
